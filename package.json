@@ -10,5 +10,8 @@
     "chai": "^4.3.10",
     "chai-spies": "^1.1.0",
     "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.25.3"
   }
 }
